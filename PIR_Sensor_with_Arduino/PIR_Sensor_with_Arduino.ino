@@ -1,3 +1,12 @@
+/*
+  PIR Sensor with Arduino
+
+  created   March 2023
+  by P.R. Pramuditha
+
+*/
+
+
 int ledPin = 13;                // choose the pin for the LED
 int inputPin = 8;               // choose the input pin (for PIR sensor)
 int pirState = LOW;             // we start, assuming no motion detected
